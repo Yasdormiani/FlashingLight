@@ -8,7 +8,7 @@ void loop (){
 
 //for making flashing light
 
-digitalWrite (led  , HIGH);h
+digitalWrite (led  , HIGH);
 delay(1000);
 digitalWrite (led , LOW);
 delay(1000);
